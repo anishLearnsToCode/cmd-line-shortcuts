@@ -1,2 +1,5 @@
-# cmd-line-shortcuts
-Important command line shortcuts for different tools
+# Command line shortcuts
+
+## ☕️ Homebrew
+
+Check homebrew path: `brew --prefix`
