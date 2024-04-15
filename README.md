@@ -13,3 +13,6 @@
 ## docker
 - List all running machines: `docker ps`
 - Enter a machine interactively to see env variables: `docker exec -it ${machinename} bash`
+
+## linux
+- Listen to logs: `tail -f /path/to/file`
