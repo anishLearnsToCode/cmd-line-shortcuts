@@ -12,7 +12,9 @@
 
 ## docker
 - List all running machines: `docker ps`
-- Enter a machine interactively to see env variables: `docker exec -it ${machinename} bash`
+- Enter a machine interactively to see env variables: `docker exec -it ${containerName} bash`
+- Stop a container: `docker stop ${containerName}`
+- Delete a container: `docker rm ${containerName}`
 
 ## linux
 - Listen to logs: `tail -f /path/to/file`
