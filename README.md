@@ -1,9 +1,9 @@
 # Command line shortcuts
 
-## ☕️ Homebrew
+## ☕️ homebrew
 - Check homebrew path: `brew --prefix`
 
-## Nginx
+## nginx
 - Restart nginx: `nginx -s reload`
 
 ## dnsmasq
